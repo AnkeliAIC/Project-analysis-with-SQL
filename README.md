@@ -8,6 +8,6 @@
 
 ## data analysis
 
-Data visualization
+## Data visualization
 
-Insight and Recommendation
+## Insight and Recommendation
