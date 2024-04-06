@@ -1,4 +1,4 @@
-# Project-analysis-with-SQL
+# Project-analysis-with-PowerBI
 
 ## About the projects
 
